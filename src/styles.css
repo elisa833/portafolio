@@ -1,0 +1,20 @@
+body {
+   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.neon-text {
+  text-shadow: 0 0 10px #b300ff, 0 0 20px #b300ff, 0 0 40px #b300ff;
+}
+
+.neon-border {
+  box-shadow: 0 0 10px #b300ff, 0 0 20px #b300ff;
+  border: 1px solid #b300ff;
+}
+
+section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
