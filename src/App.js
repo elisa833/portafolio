@@ -28,7 +28,7 @@ export default function App() {
         <section className="vh-100 d-flex flex-column justify-content-center align-items-center text-center px-3">
           <div data-aos="zoom-in">
             <h2 className="hero-subtitle">Hola, soy</h2>
-            <h1 className="hero-title">Karla Guzmán Gómez</h1>
+            <h1 className="hero-title text-light text-4xl font-bold text-pink-500" data-aos="fade-up">Karla Guzmán Gómez</h1>
             <h3 className="fs-3 text-light mt-3 fw-light">
               Ingeniería en Sistemas Computacionales
             </h3>
